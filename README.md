@@ -10,3 +10,4 @@ My first Hyprland rice of Ubuntu Noble on arm64!
 - prompt : powerlevel10k on oh-my-zsh
 - Tmux : catppuccin mocha
 - Hyprlock : catppuccin mocha (again)
+- Wallpaper from the web
