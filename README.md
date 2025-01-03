@@ -2,7 +2,7 @@
 My first Hyprland rice of Ubuntu Noble on arm64!
 ![Image of the ubuntu](https://github.com/Hash-AK/Hash-AK-First-Rice/blob/main/2025-01-03-102442_hyprshot.png)  
 
-
+![Annother image of ubuntu](https://github.com/Hash-AK/Hash-AK-First-Rice/blob/main/2025-01-03-103215_hyprshot.png)
 
 # Themes (non exhaustive)
 - Btop : catppucin mocha
