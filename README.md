@@ -8,3 +8,4 @@ My first Hyprland rice of Ubuntu Noble on arm64!
 - Kitty : Glacier
 - Mouse cursor : catppuccin-mocha-peach (25px)
 - prompt : powerlevel10k on oh-my-zsh
+- Tmux : catppuccin mocha
